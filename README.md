@@ -1,5 +1,4 @@
-# INC2-Automated-Loan-Originator
-<h2>Automated loan originator for Postman</h2>
+# Automated loan originator for Postman
 
 <b>This tool is meant to create test data, that can be used for created test cases and E2E test cases.
 
