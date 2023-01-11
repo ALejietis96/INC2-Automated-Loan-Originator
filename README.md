@@ -24,6 +24,6 @@
 
   - Read included user manual under Pre-request Script.
   
-- Edit only Pre-request Script and only information in yellow.
+  - Edit only Pre-request Script and only information in yellow and purple.
 
-- For a printout to use with Swagger – in postman press: Console  :fast_forward:  POST :fast_forward: Request Body.
+  - For a printout to use with Swagger – in postman press: Console  :fast_forward:  POST :fast_forward: Request Body.
