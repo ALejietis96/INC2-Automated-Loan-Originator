@@ -19,4 +19,4 @@ In case of any further misunderstandings occur or you have more questions, conta
   
 - Edit only Pre-request Script and only information in yellow
 
-- For a printout to use is Swagger – in postman press: Console  :fast_forward:  POST :fast_forward: Request Body
+- For a printout to use with Swagger – in postman press: Console  :fast_forward:  POST :fast_forward: Request Body
