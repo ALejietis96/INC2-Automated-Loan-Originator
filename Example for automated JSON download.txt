@@ -1,0 +1,362 @@
+{
+    "loan": {
+        "loan_id": "78c5dfcc-8b5d-41e1-9aa3-8501c4039ff8",
+        "country": "FI",
+        "type": "INS",
+        "status": "Current",
+        "currency": "EUR",
+        "issued_date": "2022-12-12",
+        "list_date": "2022-12-19",
+        "issued_amount": "4560",
+        "list_amount": "4556",
+        "skin_in_the_game": "14",
+        "junior_share": "0.00",
+        "repaid_amount": "0",
+        "debt_amount": 0,
+        "schedule_type": "FULL",
+        "interest_rate": "17",
+        "apr": "2.5854166666666667",
+        "extendable_schedule": true,
+        "extension_count": "1",
+        "purpose": "To create investing test data",
+        "buyback_guarantee": true,
+        "saldo": "4556",
+        "remaining_principal": "4546",
+        "due_date": "2024-12-01",
+        "borrower_name": "Automated tester",
+        "period": "24",
+        "borrower_interest": "17",
+        "investor_interest_rate": "19",
+        "loan_schedule": {
+            "schedule_components": {
+                "capital": "principal",
+                "interest": "interest"
+            },
+            "schedule": [
+                
+                    
+                            {
+                                "date": "2023-01-11",
+                                "rowno": "1",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-02-10",
+                                "rowno": "2",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-03-12",
+                                "rowno": "3",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-04-11",
+                                "rowno": "4",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },                
+                            {
+                                "date": "2023-05-11",
+                                "rowno": "5",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-06-10",
+                                "rowno": "6",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-07-10",
+                                "rowno": "7",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-08-09",
+                                "rowno": "8",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-09-08",
+                                "rowno": "9",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-10-08",
+                                "rowno": "10",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-11-07",
+                                "rowno": "11",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2023-12-07",
+                                "rowno": "12",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-01-06",
+                                "rowno": "13",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-02-05",
+                                "rowno": "14",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-03-06",
+                                "rowno": "15",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-04-05",
+                                "rowno": "16",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-05-05",
+                                "rowno": "17",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-06-04",
+                                "rowno": "18",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-07-04",
+                                "rowno": "19",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-08-03",
+                                "rowno": "20",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-09-02",
+                                "rowno": "21",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-10-02",
+                                "rowno": "22",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-11-01",
+                                "rowno": "23",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            },
+                            {
+                                "date": "2024-12-01",
+                                "rowno": "24",
+                                "repayment": {
+                                    "total": "0",
+                                    "repaid": false,
+                                    "payments": []
+                                },
+                                "schedule_components": {
+                                    "capital": "190",
+                                "interest": "32"
+                                }
+                            }
+                
+            ]
+        },
+        "timezone": "Europe/Tallinn",
+        "loan_score": 899,
+        "loan_sequence": 1,
+        "third_party_guarantee": false,
+        "guarantee_percentage": 5,
+        "guarantee_amount": 0,
+        "guarantee_basis_for_percentage": "issued principal",
+        "insurance": true
+    }
+}
