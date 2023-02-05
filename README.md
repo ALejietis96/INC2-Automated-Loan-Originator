@@ -22,7 +22,7 @@ In case of any further misunderstandings occur or you have more questions, conta
 
   - Must use Postman.
 
-  - Add library - <i>Automated Loan Creatorv1_2.postman_collection</i>
+  - Add library - <i>[Automated Loan Creatorv1_2.postman_collection</i>](https://github.com/ALejietis96/INC2-Automated-Loan-Originator/blob/main/Automated%20Loan%20Creatorv1_2.postman_collection)
 
   - Log in with your API authorization key.
 
