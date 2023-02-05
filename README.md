@@ -1,10 +1,10 @@
 # Automated loan originator for Postman
 
-- This tool is meant to create test data, that can be used for created test cases and E2E test cases.
+- <b>This tool is meant to create test data, that can be used for created test cases and E2E test cases.
 
 - Disclaimer: This tool has limited support for edge test cases and is built to work within a normal operating range.
 
-- In case of any further misunderstandings occur or you have more questions, contact script developer - @ALejietis96 :
+- In case of any further misunderstandings occur or you have more questions, contact script developer - <i>@ALejietis96</i> :</b>
 
   - I have no prior expreience in JavaScript.
 
@@ -12,13 +12,17 @@
   
   - During 4 day long development and 2 versions:
     
-    - Where main functions were written during first 2 days and functionality to change payment schedules from 1m to 24m and paid out from 0m to 24m for following 2 days including testing for presenting to my team members and CerebrumHub mentors.</b>
+    - Where main functions were written during the first 2 days
+    
+    - Functionality to change payment schedules from 1m to 24m and paid out from 0m to 24m for the following 2 days
+    
+      - Including testing for presenting to my team members and CerebrumHub mentors.</b>
 
 - <b>How to use:</b>
 
   - Must use Postman.
 
-  - Add library - Automated Loan Creatorv1_2.postman_collection
+  - Add library - <i>Automated Loan Creatorv1_2.postman_collection</i>
 
   - Log in with your API authorization key.
 
