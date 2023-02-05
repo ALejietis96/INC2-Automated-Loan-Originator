@@ -32,7 +32,7 @@
 
   - <i>Automated Loan Creatorv1_2.postman_collection</i> - Postman collection, for ease of use when importing it in Postman
   
-  - <i>Automated Loan originator.pdfUser manual.jpg</i></i> - PDF from Confluence that is representation of documentation that was added to the project
+  - <i>Automated Loan originator.pdf</i> - PDF from Confluence that is representation of documentation that was added to the project
   
   - <i>Editable information in yellow.jpg</i> - Visual representation of which information should be edited.
   
