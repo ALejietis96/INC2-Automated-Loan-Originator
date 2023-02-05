@@ -1,16 +1,16 @@
 # Automated loan originator for Postman
 
-- <b>This tool is meant to create test data, that can be used for created test cases and E2E test cases.
+<b>This tool is meant to create test data, that can be used for created test cases and E2E test cases.
 
-- Disclaimer: This tool has limited support for edge test cases and is built to work within a normal operating range.
+Disclaimer: This tool has limited support for edge test cases and is built to work within a normal operating range.
 
-- In case of any further misunderstandings occur or you have more questions, contact script developer - <i>@ALejietis96</i> :</b>
+In case of any further misunderstandings occur or you have more questions, contact script developer - <i>@ALejietis96</i> :</b>
 
   - I have no prior expreience in JavaScript.
 
-  - So everything that has been written here has been gathered online by me. 
+  - Everything that has been written here has been gathered online by me. 
   
-  - During 4 day long development and 2 versions:
+  - During 4 day long development and creating 2 versions:
     
     - Where main functions were written during the first 2 days
     
@@ -18,7 +18,7 @@
     
       - Including testing for presenting to my team members and CerebrumHub mentors.</b>
 
-- <b>How to use:</b>
+<b>How to use:</b>
 
   - Must use Postman.
 
@@ -32,7 +32,7 @@
 
   - For a printout to use with Swagger – in postman press: Console  :fast_forward:  POST :fast_forward: Request Body.
 
-- <b>Files about:</b>
+<b>Files about:</b>
 
   - <i>Automated Loan Creatorv1_2.postman_collection</i> - Postman collection, for ease of use when importing it in Postman
   
