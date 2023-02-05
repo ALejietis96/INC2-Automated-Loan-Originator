@@ -4,7 +4,7 @@
 
 Disclaimer: This tool has limited support for edge test cases and is built to work within a normal operating range.
 
-In case of any further misunderstandings occur or you have more questions, contact script developer - <i>@ALejietis96</i> :</b>
+In case of any further misunderstandings occur or you have more questions, contact script developer - <i>[@ALejietis96</i>](https://github.com/ALejietis96) :</b>
 
   - I have no prior expreience in JavaScript.
 
@@ -34,14 +34,14 @@ In case of any further misunderstandings occur or you have more questions, conta
 
 <b>Files about:</b>
 
-  - <i>Automated Loan Creatorv1_2.postman_collection</i> - Postman collection, for ease of use when importing it in Postman
+  - <i>[Automated Loan Creatorv1_2.postman_collection</i>](https://github.com/ALejietis96/INC2-Automated-Loan-Originator/blob/main/Automated%20Loan%20Creatorv1_2.postman_collection) - Postman collection, for ease of use when importing it in Postman
   
-  - <i>Automated Loan originator.pdf</i> - PDF from Confluence that is representation of documentation that was added to the project
+  - <i>[Automated Loan originator.pdf</i>](https://github.com/ALejietis96/INC2-Automated-Loan-Originator/blob/main/Automated%20Loan%20originator.pdf) - PDF from Confluence that is representation of documentation that was added to the project
   
-  - <i>Editable information in yellow.jpg</i> - Visual representation of which information should be edited.
+  - <i>[Editable information in yellow.jpg</i>](https://github.com/ALejietis96/INC2-Automated-Loan-Originator/blob/main/Editable%20information%20in%20yellow.jpg) - Visual representation of which information should be edited.
   
-  - <i>Example for automated JSON download.txt</i> - API Example, that could be executed with Swagger
+  - <i>[Example for automated JSON download.txt</i>](https://github.com/ALejietis96/INC2-Automated-Loan-Originator/blob/main/Example%20for%20automated%20JSON%20download.txt) - API Example, that could be executed with Swagger
   
-  - <i>Login - How to.jpg</i> - A how to for adding API key in Postman
+  - <i>[Login - How to.jpg</i>](https://github.com/ALejietis96/INC2-Automated-Loan-Originator/blob/main/Login%20-%20How%20to.jpg) - A how to for adding API key in Postman
   
-  - <i>User manual.jpg</i> - Screenshot with script user manual, that is to be found in JavaScript code
+  - <i>[User manual.jpg</i>](https://github.com/ALejietis96/INC2-Automated-Loan-Originator/blob/main/User%20manual.jpg) - Screenshot with script user manual, that is to be found in JavaScript code
